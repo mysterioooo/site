@@ -2,5 +2,5 @@
 INTERIOR DESIGN FIRM WEBSITE
 
 mailid
-from: phpsendmailfrom@gmail.com 
-password: Shubham@123
+from: phpsendmailfrom@gmail.com
+Name@123
